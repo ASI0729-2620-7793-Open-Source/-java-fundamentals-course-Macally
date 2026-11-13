@@ -14,6 +14,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 | **Herramientas necesarias** | **¡Solo tu navegador web!** (Chrome, Firefox, Safari, Edge) |
 | **Editor de código** | **JDoodle** — 100 % en línea, gratuito, sin instalación |
 | **📂 Repositorio de Código Fuente** | [Ir al Repositorio en GitHub](https://github.com/ASI0729-2620-7793-Open-Source/-java-fundamentals-course-Macally.git) |
+| **Lista de reproducción completa** | [Ir a ver el curso](https://www.youtube.com/playlist?list=PLQRlE8brG8SY) |
 
 ---
 
@@ -42,18 +43,18 @@ Los retos están diseñados para resolverse en aproximadamente 2 a 3 minutos y u
 ### Lección 1: ¿Qué es programar y qué es Java? (5 minutos)
 
 - **Descripción**: Aprende qué es un programa, qué es la programación y por qué Java es un excelente lenguaje para empezar. Incluye tu primer "Hola, mundo".
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-leccion-01)
+- **Enlace**: [Ver la lección](https://youtu.be/MJOYUBeytYU)
 - **Conclusiones clave**: Programar es dar instrucciones a la computadora; Java se usa en aplicaciones, videojuegos y sistemas de todo el mundo; todo programa necesita un punto de partida (`main`).
-- **Práctica**: [Clic para programar en JDoodle](https://jdoodle.com/execute-java-online/leccion-01) 👈 **¡Inicio inmediato, sin instalación!**
-- **Pausa de participación**: Reto 1 — Saludo personalizado
+- **Práctica**: [Clic para programar en JDoodle](https://www.jdoodle.com/ia/nkce-hqz9-z5dg) 👈 **¡Inicio inmediato, sin instalación!**
+- **Pausa de participación**: [Reto 1 — Saludo personalizado](https://www.jdoodle.com/ia/rzpv-ks7b-ngjp)
 
 ### Lección 2: Variables y tipos de datos (6 minutos)
 
 - **Descripción**: Aprende a almacenar datos en Java usando variables y los tipos de datos más comunes (`int`, `double`, `String`, `boolean`, `char`).
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-leccion-02)
+- **Enlace**: [Ver la lección](https://youtu.be/boMU9rcFnfY)
 - **Conclusiones clave**: Declara variables como `int edad = 15;`; cada tipo guarda una clase de dato distinto; el operador `+` une texto y valores.
-- **Práctica**: [Clic para programar en JDoodle](https://jdoodle.com/execute-java-online/leccion-02) 👈 **¡No es necesario instalar nada!**
-- **Pausa de participación**: Reto 2 — Ficha de datos
+- **Práctica**: [Clic para programar en JDoodle](https://www.jdoodle.com/ia/fw4a-snbp-hzwz) 👈 **¡No es necesario instalar nada!**
+- **Pausa de participación**: [Reto 2 — Ficha de datos](https://www.jdoodle.com/ia/8g53-gw3z-ru4f)
 
 ### Lección 3: Operadores y expresiones (5 minutos)
 
@@ -74,18 +75,18 @@ Los retos están diseñados para resolverse en aproximadamente 2 a 3 minutos y u
 ### Lección 5: Bucles: for y while (6 minutos)
 
 - **Descripción**: Repite tareas automáticamente con los bucles `for` y `while` sin escribir el mismo código muchas veces.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-leccion-05)
+- **Enlace**: [Ver la lección](https://youtu.be/NRGF8V-LHAw)
 - **Conclusiones clave**: `for` se usa cuando sabes cuántas repeticiones necesitas; `while` repite mientras una condición sea verdadera; cuidado con los bucles infinitos.
-- **Práctica**: [Clic para programar en JDoodle](https://jdoodle.com/execute-java-online/leccion-05) 👈 **¡Repite sin repetir código!**
-- **Pausa de participación**: Reto 5 — Cuenta regresiva y suma
+- **Práctica**: [Clic para programar en JDoodle](https://www.jdoodle.com/ia/aqqm-ktm9-g8yp) 👈 **¡Repite sin repetir código!**
+- **Pausa de participación**: [Reto 5 — Cuenta regresiva y suma](https://www.jdoodle.com/ia/tw9q-bep6-rc7n)
 
 ### Lección 6: Métodos (funciones) y parámetros (6 minutos)
 
 - **Descripción**: Crea código reutilizable agrupando instrucciones en métodos y recibiendo datos con parámetros.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-leccion-06)
+- **Enlace**: [Ver la lección](https://youtu.be/P9q4Af0na0E)
 - **Conclusiones clave**: `public static void saludar(String nombre) { ... }` define un método; `return` devuelve un valor; un mismo método puede llamarse varias veces con datos distintos.
-- **Práctica**: [Clic para programar en JDoodle](https://jdoodle.com/execute-java-online/leccion-06) 👈 **¡Escribe una vez, usa muchas!**
-- **Pausa de participación**: Reto 6 — Área de un rectángulo
+- **Práctica**: [Clic para programar en JDoodle](https://www.jdoodle.com/ia/8ezb-t6pq-vudg) 👈 **¡Escribe una vez, usa muchas!**
+- **Pausa de participación**: [Reto 6 — Área de un rectángulo](https://www.jdoodle.com/ia/rb7r-5jak-tnpg)
 
 ### Lección 7: Entrada y salida básica con Scanner (7 minutos)
 
@@ -106,18 +107,18 @@ Los retos están diseñados para resolverse en aproximadamente 2 a 3 minutos y u
 ### Lección 9: Encapsulación (getters/setters) y arrays con objetos (8 minutos)
 
 - **Descripción**: Primero aprende a proteger los datos de tu clase con encapsulación (`private` más `get`/`set` con validación) mediante un ejemplo pequeño; después, en un segundo bloque, guarda varios valores y objetos en arrays también con un ejemplo pequeño.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-leccion-09)
+- **Enlace**: [Ver la lección](https://youtu.be/xXIs0Js8MIY)
 - **Conclusiones clave**: `private` oculta el atributo; los getters leen y los setters modifican con validación; un array como `String[] materias = {"Matemática", "Comunicación", "Ciencia"};` guarda varios valores y `Estudiante[] grupo = new Estudiante[3];` guarda objetos; los arrays empiezan en la posición 0.
-- **Práctica**: [Clic para programar en JDoodle](https://jdoodle.com/execute-java-online/leccion-09) 👈 **¡Protege tus datos!**
-- **Pausa de participación**: Reto 9 — Encapsulación y arrays
+- **Práctica**: [Clic para programar en JDoodle](https://www.jdoodle.com/ia/thg3-jxsz-ep4e) 👈 **¡Protege tus datos!**
+- **Pausa de participación**: [Reto 9 — Encapsulación y arrays](https://www.jdoodle.com/ia/8mjs-vyg6-7vzm)
 
 ### Lección 10: Proyecto final: Registro de Estudiantes y mejores prácticas (7 minutos)
 
 - **Descripción**: Integra todo lo aprendido para desarrollar un programa completo basado en POO: un registro de estudiantes con entrada de datos **y validación** (evita nombres vacíos y edades incorrectas), y termina con mejores prácticas y errores comunes para principiantes.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-leccion-10)
+- **Enlace**: [Ver la lección](https://youtu.be/PW5ThHJbC2k)
 - **Conclusiones clave**: Un buen programa combina clase + encapsulación + array + entrada de datos y siempre valida lo que recibe; usa nombres claros, sangría consistente y comenta lo importante; lee los mensajes de error con calma: te indican la línea del problema.
-- **Proyecto final**: [Crea tu aplicación en JDoodle](https://jdoodle.com/execute-java-online/leccion-10-proyecto) 👈 **¡Guarda y comparte tu código!**
-- **Pausa de participación**: Reto 10 — Extiende el registro
+- **Proyecto final**: [Crea tu aplicación en JDoodle](https://www.jdoodle.com/ia/r8ns-97qp-4jg5) 👈 **¡Guarda y comparte tu código!**
+- **Pausa de participación**: [Reto 10 — Extiende el registro](https://www.jdoodle.com/ia/cvkr-dx77-95wr)
 
 ---
 
@@ -129,16 +130,16 @@ mediante pequeños ejercicios de programación.
 
 | Lección | Reto | Conceptos en juego |
 |---|---|---|
-| 1 | Reto 1 — Saludo personalizado | `main`, `System.out.println` |
-| 2 | Reto 2 — Ficha de datos | tipos de datos, asignación |
+| 1 | [Reto 1 — Saludo personalizado](https://www.jdoodle.com/ia/rzpv-ks7b-ngjp) | `main`, `System.out.println` |
+| 2 | [Reto 2 — Ficha de datos](https://www.jdoodle.com/ia/8g53-gw3z-ru4f) | tipos de datos, asignación |
 | 3 | Reto 3 — Mini calculadora | operadores aritméticos y de comparación |
 | 4 | Reto 4 — ¿Puedes tomar el curso? | `if-else`, `&&` |
-| 5 | Reto 5 — Cuenta regresiva y suma | `for`, `while` |
-| 6 | Reto 6 — Área de un rectángulo | métodos con `return` |
+| 5 | [Reto 5 — Cuenta regresiva y suma](https://www.jdoodle.com/ia/tw9q-bep6-rc7n) | `for`, `while` |
+| 6 | [Reto 6 — Área de un rectángulo](https://www.jdoodle.com/ia/rb7r-5jak-tnpg) | métodos con `return` |
 | 7 | Reto 7 — Tarjeta de presentación | `Scanner`, regla `nextInt()` + `nextLine()` |
 | 8 | Reto 8 — Tu clase Videojuego | clases, constructores, métodos |
-| 9 | Reto 9 — Encapsulación y arrays | `private`, `get`/`set`, arrays de objetos |
-| 10 | Reto 10 — Extiende el registro | validación de datos, bucles, getters |
+| 9 | [Reto 9 — Encapsulación y arrays](https://www.jdoodle.com/ia/8mjs-vyg6-7vzm) | `private`, getters/setters, arrays de objetos |
+| 10 | [Reto 10 — Extiende el registro](https://www.jdoodle.com/ia/cvkr-dx77-95wr) | validación de datos, bucles, getters |
 
 Importante: Los retos son actividades de práctica personal. Puedes resolverlos directamente en JDoodle, comparar tus resultados con las soluciones y continuar con el curso. No requieren entregas.
 
@@ -150,7 +151,7 @@ Importante: Los retos son actividades de práctica personal. Puedes resolverlos 
 ## Recursos adicionales
 
 - **Código fuente completo**: [Repositorio de GitHub](https://github.com/ASI0729-2620-7793-Open-Source/-java-fundamentals-course-Macally.git)
-- **Cuestionario final**: [Prueba de conocimientos](https://forms.gle/example-quiz) 
+- **Cuestionario final**: [Prueba de conocimientos](https://wayground.com/activity/admin/quiz/6af6ba6fc47ef0548cc2d085) 
 - **Documentación oficial de Java**: [Java Documentation](https://docs.oracle.com/en/java/) 
 - **Compartir tu trabajo**: usa la etiqueta **#JavaBeginners**
 
@@ -171,4 +172,4 @@ NRC 7793
 | **Nombre del equipo** | Macally |
 | **Líder del equipo** | Lopez Torres, Leonardo Gabriel |
 | **Integrantes del equipo** | - Diaz Caruzo, Edgard Daniel<br/> - Diaz Yurivilca, Sofia<br/> - Payano Puchuri, Joan Fabricio<br/> - Lopez Torres, Leonardo Gabriel<br/> - Ruiz Villegas, Yngrid Nahir |
-| **Fecha de entrega** | [Fecha] |
+| **Fecha de entrega** | 15/11/2026 |
