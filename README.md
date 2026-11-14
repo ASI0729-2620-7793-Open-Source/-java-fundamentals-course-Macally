@@ -93,7 +93,7 @@ Los retos están diseñados para resolverse en aproximadamente 2 a 3 minutos y u
 - **Descripción**: Haz que tu programa interactúe con el usuario leyendo datos de teclado con la clase `Scanner`, incluida la regla para leer texto después de un número.
 - **Enlace**: https://youtu.be/UkRfPtW7IRM
 - **Conclusiones clave**: `Scanner lector = new Scanner(System.in);` crea el lector; `nextLine()` lee texto y `nextInt()` lee números; **después de `nextInt()` agrega `lector.nextLine()`** para limpiar el salto de línea pendiente, o la siguiente lectura de texto se salta; `System.out.print()` muestra el mensaje sin salto de línea.
-- **Práctica**: [Clic para programar en JDoodle](https://www.jdoodle.com/ga/9rmd-3qhb-4pmt) 👈 **¡Tu programa habla contigo!**
+- **Práctica**: [Clic para programar en JDoodle](https://www.jdoodle.com/ia/sqmt-rt3d-yq8w) 👈 **¡Tu programa habla contigo!**
 - **Pausa de participación**: [Reto 7 — Tarjeta de presentación](https://www.jdoodle.com/ia/cpc6-tzzr-j49y)
 
 ### Lección 8: Introducción a la POO: Clases, objetos y constructores (7 minutos)
