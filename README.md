@@ -132,7 +132,7 @@ mediante pequeños ejercicios de programación.
 |---|---|---|
 | 1 | [Reto 1 — Saludo personalizado](https://www.jdoodle.com/ia/rzpv-ks7b-ngjp) | `main`, `System.out.println` |
 | 2 | [Reto 2 — Ficha de datos](https://www.jdoodle.com/ia/8g53-gw3z-ru4f) | tipos de datos, asignación |
-| 3 | [Reto 3 — Mini calculadora](https://www.jdoodle.com/ia/62bm-3ane-sg5k) |
+| 3 | [Reto 3 — Mini calculadora](https://www.jdoodle.com/ia/62bm-3ane-sg5k) |operadores aritméticos|
 | 4 | [Reto 4 — ¿Puedes tomar el curso?](https://www.jdoodle.com/ia/gfxx-jhwe-23ce) | `if-else`, `&&` |
 | 5 | [Reto 5 — Cuenta regresiva y suma](https://www.jdoodle.com/ia/tw9q-bep6-rc7n) | `for`, `while` |
 | 6 | [Reto 6 — Área de un rectángulo](https://www.jdoodle.com/ia/rb7r-5jak-tnpg) | métodos con `return` |
