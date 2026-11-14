@@ -43,65 +43,65 @@ Los retos están diseñados para resolverse en aproximadamente 2 a 3 minutos y u
 ### Lección 1: ¿Qué es programar y qué es Java? (5 minutos)
 
 - **Descripción**: Aprende qué es un programa, qué es la programación y por qué Java es un excelente lenguaje para empezar. Incluye tu primer "Hola, mundo".
-- **Enlace**: [Ver la lección](https://youtu.be/MJOYUBeytYU)
+- **Enlace**: https://youtu.be/MJOYUBeytYU
 - **Conclusiones clave**: Programar es dar instrucciones a la computadora; Java se usa en aplicaciones, videojuegos y sistemas de todo el mundo; todo programa necesita un punto de partida (`main`).
-- **Práctica**: [Clic para programar en JDoodle](https://www.jdoodle.com/ia/nkce-hqz9-z5dg) 👈 **¡Inicio inmediato, sin instalación!**
-- **Pausa de participación**: [Reto 1 — Saludo personalizado](https://www.jdoodle.com/ia/rzpv-ks7b-ngjp)
+- **Práctica**: https://www.jdoodle.com/ia/nkce-hqz9-z5dg 👈 **¡Inicio inmediato, sin instalación!**
+- **Pausa de participación**: https://www.jdoodle.com/ia/rzpv-ks7b-ngjp
 
 ### Lección 2: Variables y tipos de datos (6 minutos)
 
 - **Descripción**: Aprende a almacenar datos en Java usando variables y los tipos de datos más comunes (`int`, `double`, `String`, `boolean`, `char`).
-- **Enlace**: [Ver la lección](https://youtu.be/boMU9rcFnfY)
+- **Enlace**: https://youtu.be/boMU9rcFnfY
 - **Conclusiones clave**: Declara variables como `int edad = 15;`; cada tipo guarda una clase de dato distinto; el operador `+` une texto y valores.
-- **Práctica**: [Clic para programar en JDoodle](https://www.jdoodle.com/ia/fw4a-snbp-hzwz) 👈 **¡No es necesario instalar nada!**
-- **Pausa de participación**: [Reto 2 — Ficha de datos](https://www.jdoodle.com/ia/8g53-gw3z-ru4f)
+- **Práctica**: https://www.jdoodle.com/ia/fw4a-snbp-hzwz 👈 **¡No es necesario instalar nada!**
+- **Pausa de participación**: https://www.jdoodle.com/ia/8g53-gw3z-ru4f
 
 ### Lección 3: Operadores y expresiones (5 minutos)
 
 - **Descripción**: Realiza cálculos y comparaciones con los operadores aritméticos, de comparación y lógicos de Java.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-leccion-03)
+- **Enlace**: https://www.youtube.com/watch?v=example-leccion-03
 - **Conclusiones clave**: `+ - * / %` calculan; `== > < >= <=` comparan; `&& ||` combinan condiciones; la división entre enteros trunca el resultado (`10 / 3` es `3`).
-- **Práctica**: [Clic para programar en JDoodle](https://jdoodle.com/execute-java-online/leccion-03) 👈 **¡Aprende haciendo!**
+- **Práctica**: https://jdoodle.com/execute-java-online/leccion-03 👈 **¡Aprende haciendo!**
 - **Pausa de participación**: Reto 3 — Mini calculadora
 
 ### Lección 4: Estructuras de control: Decisiones con if-else (6 minutos)
 
 - **Descripción**: Haz que tu programa tome decisiones con la sentencia `if-else` y las condiciones combinadas.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-leccion-04)
+- **Enlace**: https://www.youtube.com/watch?v=example-leccion-04
 - **Conclusiones clave**: `if (condición) { ... } else { ... }` ejecuta un camino u otro; puedes combinar condiciones con `&&` y `||`.
-- **Práctica**: [Clic para programar en JDoodle](https://jdoodle.com/execute-java-online/leccion-04) 👈 **¡Tú tomas las decisiones!**
+- **Práctica**: https://jdoodle.com/execute-java-online/leccion-04 👈 **¡Tú tomas las decisiones!**
 - **Pausa de participación**: Reto 4 — ¿Puedes tomar el curso?
 
 ### Lección 5: Bucles: for y while (6 minutos)
 
 - **Descripción**: Repite tareas automáticamente con los bucles `for` y `while` sin escribir el mismo código muchas veces.
-- **Enlace**: [Ver la lección](https://youtu.be/NRGF8V-LHAw)
+- **Enlace**: https://youtu.be/NRGF8V-LHAw
 - **Conclusiones clave**: `for` se usa cuando sabes cuántas repeticiones necesitas; `while` repite mientras una condición sea verdadera; cuidado con los bucles infinitos.
-- **Práctica**: [Clic para programar en JDoodle](https://www.jdoodle.com/ia/aqqm-ktm9-g8yp) 👈 **¡Repite sin repetir código!**
-- **Pausa de participación**: [Reto 5 — Cuenta regresiva y suma](https://www.jdoodle.com/ia/tw9q-bep6-rc7n)
+- **Práctica**: https://www.jdoodle.com/ia/aqqm-ktm9-g8yp 👈 **¡Repite sin repetir código!**
+- **Pausa de participación**: https://www.jdoodle.com/ia/tw9q-bep6-rc7n
 
 ### Lección 6: Métodos (funciones) y parámetros (6 minutos)
 
 - **Descripción**: Crea código reutilizable agrupando instrucciones en métodos y recibiendo datos con parámetros.
-- **Enlace**: [Ver la lección](https://youtu.be/P9q4Af0na0E)
+- **Enlace**: https://youtu.be/P9q4Af0na0E
 - **Conclusiones clave**: `public static void saludar(String nombre) { ... }` define un método; `return` devuelve un valor; un mismo método puede llamarse varias veces con datos distintos.
-- **Práctica**: [Clic para programar en JDoodle](https://www.jdoodle.com/ia/8ezb-t6pq-vudg) 👈 **¡Escribe una vez, usa muchas!**
-- **Pausa de participación**: [Reto 6 — Área de un rectángulo](https://www.jdoodle.com/ia/rb7r-5jak-tnpg)
+- **Práctica**: https://www.jdoodle.com/ia/8ezb-t6pq-vudg 👈 **¡Escribe una vez, usa muchas!**
+- **Pausa de participación**: https://www.jdoodle.com/ia/rb7r-5jak-tnpg
 
 ### Lección 7: Entrada y salida básica con Scanner (7 minutos)
 
 - **Descripción**: Haz que tu programa interactúe con el usuario leyendo datos de teclado con la clase `Scanner`, incluida la regla para leer texto después de un número.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-leccion-07)
+- **Enlace**: https://www.youtube.com/watch?v=example-leccion-07
 - **Conclusiones clave**: `Scanner lector = new Scanner(System.in);` crea el lector; `nextLine()` lee texto y `nextInt()` lee números; **después de `nextInt()` agrega `lector.nextLine()`** para limpiar el salto de línea pendiente, o la siguiente lectura de texto se salta; `System.out.print()` muestra el mensaje sin salto de línea.
-- **Práctica**: [Clic para programar en JDoodle](https://jdoodle.com/execute-java-online/leccion-07) 👈 **¡Tu programa habla contigo!**
+- **Práctica**: https://www.jdoodle.com/ga/9rmd-3qhb-4pmt 👈 **¡Tu programa habla contigo!**
 - **Pausa de participación**: Reto 7 — Tarjeta de presentación
 
 ### Lección 8: Introducción a la POO: Clases, objetos y constructores (7 minutos)
 
 - **Descripción**: Da el salto a la programación orientada a objetos: crea una clase con atributos y comportamientos, y construye objetos a partir de ella.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-leccion-08)
+- **Enlace**: https://www.youtube.com/watch?v=example-leccion-08
 - **Conclusiones clave**: Una **clase** es el plano; un **objeto** es lo que se construye con ese plano; el **constructor** inicializa los atributos con `new`; los métodos definen el comportamiento.
-- **Práctica**: [Clic para programar en JDoodle](https://jdoodle.com/execute-java-online/leccion-08) 👈 **¡Crea tu primera clase!**
+- **Práctica**: https://www.jdoodle.com/ga/tv9h-kera-hy2d 👈 **¡Crea tu primera clase!**
 - **Pausa de participación**: Reto 8 — Tu clase Videojuego
 
 ### Lección 9: Encapsulación (getters/setters) y arrays con objetos (8 minutos)
@@ -109,7 +109,7 @@ Los retos están diseñados para resolverse en aproximadamente 2 a 3 minutos y u
 - **Descripción**: Primero aprende a proteger los datos de tu clase con encapsulación (`private` más `get`/`set` con validación) mediante un ejemplo pequeño; después, en un segundo bloque, guarda varios valores y objetos en arrays también con un ejemplo pequeño.
 - **Enlace**: [Ver la lección](https://youtu.be/xXIs0Js8MIY)
 - **Conclusiones clave**: `private` oculta el atributo; los getters leen y los setters modifican con validación; un array como `String[] materias = {"Matemática", "Comunicación", "Ciencia"};` guarda varios valores y `Estudiante[] grupo = new Estudiante[3];` guarda objetos; los arrays empiezan en la posición 0.
-- **Práctica**: [Clic para programar en JDoodle](https://www.jdoodle.com/ia/thg3-jxsz-ep4e) 👈 **¡Protege tus datos!**
+- **Práctica**: https://www.jdoodle.com/ia/thg3-jxsz-ep4e 👈 **¡Protege tus datos!**
 - **Pausa de participación**: [Reto 9 — Encapsulación y arrays](https://www.jdoodle.com/ia/8mjs-vyg6-7vzm)
 
 ### Lección 10: Proyecto final: Registro de Estudiantes y mejores prácticas (7 minutos)
@@ -130,14 +130,14 @@ mediante pequeños ejercicios de programación.
 
 | Lección | Reto | Conceptos en juego |
 |---|---|---|
-| 1 | [Reto 1 — Saludo personalizado](https://www.jdoodle.com/ia/rzpv-ks7b-ngjp) | `main`, `System.out.println` |
-| 2 | [Reto 2 — Ficha de datos](https://www.jdoodle.com/ia/8g53-gw3z-ru4f) | tipos de datos, asignación |
+| 1 | https://www.jdoodle.com/ia/rzpv-ks7b-ngjp | `main`, `System.out.println` |
+| 2 | https://www.jdoodle.com/ia/8g53-gw3z-ru4f | tipos de datos, asignación |
 | 3 | Reto 3 — Mini calculadora | operadores aritméticos y de comparación |
 | 4 | Reto 4 — ¿Puedes tomar el curso? | `if-else`, `&&` |
 | 5 | [Reto 5 — Cuenta regresiva y suma](https://www.jdoodle.com/ia/tw9q-bep6-rc7n) | `for`, `while` |
 | 6 | [Reto 6 — Área de un rectángulo](https://www.jdoodle.com/ia/rb7r-5jak-tnpg) | métodos con `return` |
-| 7 | Reto 7 — Tarjeta de presentación | `Scanner`, regla `nextInt()` + `nextLine()` |
-| 8 | Reto 8 — Tu clase Videojuego | clases, constructores, métodos |
+| 7 | https://www.jdoodle.com/ga/9rmd-3qhb-4pmt | `Scanner`, regla `nextInt()` + `nextLine()` |
+| 8 | https://www.jdoodle.com/ga/tv9h-kera-hy2d | clases, constructores, métodos |
 | 9 | [Reto 9 — Encapsulación y arrays](https://www.jdoodle.com/ia/8mjs-vyg6-7vzm) | `private`, getters/setters, arrays de objetos |
 | 10 | [Reto 10 — Extiende el registro](https://www.jdoodle.com/ia/cvkr-dx77-95wr) | validación de datos, bucles, getters |
 
@@ -150,9 +150,9 @@ Importante: Los retos son actividades de práctica personal. Puedes resolverlos 
 
 ## Recursos adicionales
 
-- **Código fuente completo**: [Repositorio de GitHub](https://github.com/ASI0729-2620-7793-Open-Source/-java-fundamentals-course-Macally.git)
-- **Cuestionario final**: [Prueba de conocimientos](https://wayground.com/activity/admin/quiz/6af6ba6fc47ef0548cc2d085) 
-- **Documentación oficial de Java**: [Java Documentation](https://docs.oracle.com/en/java/) 
+- **Código fuente completo**: https://github.com/ASI0729-2620-7793-Open-Source/-java-fundamentals-course-Macally.git
+- **Cuestionario final**: https://wayground.com/activity/admin/quiz/6af6ba6fc47ef0548cc2d085 
+- **Documentación oficial de Java**: https://docs.oracle.com/en/java/
 - **Compartir tu trabajo**: usa la etiqueta **#JavaBeginners**
 
 **¡Gracias por completar el curso!**
