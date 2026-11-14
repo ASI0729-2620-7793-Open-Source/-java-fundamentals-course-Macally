@@ -88,7 +88,7 @@ Los retos están diseñados para resolverse en aproximadamente 2 a 3 minutos y u
 - **Práctica**: https://www.jdoodle.com/ia/8ezb-t6pq-vudg 👈 **¡Escribe una vez, usa muchas!**
 - **Pausa de participación**: https://www.jdoodle.com/ia/rb7r-5jak-tnpg
 
-### Lección 7: Entrada y salida básica con Scanner (7 minutos)
+### Lección 7: Entrada y salida básica con Scanner (10:43 minutos)
 
 - **Descripción**: Haz que tu programa interactúe con el usuario leyendo datos de teclado con la clase `Scanner`, incluida la regla para leer texto después de un número.
 - **Enlace**: https://youtu.be/UkRfPtW7IRM
@@ -96,7 +96,7 @@ Los retos están diseñados para resolverse en aproximadamente 2 a 3 minutos y u
 - **Práctica**: https://www.jdoodle.com/ia/sqmt-rt3d-yq8w 👈 **¡Tu programa habla contigo!**
 - **Pausa de participación**: https://www.jdoodle.com/ia/cpc6-tzzr-j49y
 
-### Lección 8: Introducción a la POO: Clases, objetos y constructores (7 minutos)
+### Lección 8: Introducción a la POO: Clases, objetos y constructores (13:49 minutos)
 
 - **Descripción**: Da el salto a la programación orientada a objetos: crea una clase con atributos y comportamientos, y construye objetos a partir de ella.
 - **Enlace**: https://youtu.be/Uc7PvHcY82c
